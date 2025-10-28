@@ -1,7 +1,7 @@
 
     import java.util.Scanner;  // Import Scanner class for taking user input
 
-public class FindingHCF {
+public class FindingHCF{
 
     // Recursive method to find HCF (Highest Common Factor) using Euclid's Algorithm
     public static int HCF(int a, int b) {
